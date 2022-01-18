@@ -1,6 +1,7 @@
 // Return true if string contains all unique characters, else return false
 #include<algorithm>
 #include<string>
+// way 1 - using string. 
 bool isUniqueChars(string str){
   int n = str.length();
   sort(str.begin(), str.end());
