@@ -9,7 +9,7 @@ bool isUniqueChars(string str){
       return false;
   }
   return true;
-  //Using Count Array:
+  //2nd way - Using Count Array:
       // int count[256] = {0};
     //   for(int i=0; i< str.length(); i++){
     //       count[str[i]]++;
