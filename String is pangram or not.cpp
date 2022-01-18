@@ -10,7 +10,7 @@
 bool isPangram(string str) {
   int count[26] = {0};
   for(int i=0; i< str.length(); i++)
-  count[str[i]-'a']++;
+  count[str[i]-'a']++; //filling count array.
   for(int i=0; i< 26;i++){
       if(count[i] == 0)
       return false;
