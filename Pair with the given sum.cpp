@@ -4,7 +4,7 @@ bool pairSum(vector <int> arr, int n, int k){
     for (int i=0; i<n; i++)
     {
  	   if (hashSet.find(k - arr[i]) != hashSet.end())
- 	       return true;
+ 	      { return true;}
  	   hashSet.insert(arr[i]);
     }
     return false;
