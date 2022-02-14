@@ -15,4 +15,4 @@ int arraysEqualorNot(vector<int> A, vector<int> B) {
         mp[B[j]]--;
     }
     return 1;
-}
+} //revised.
