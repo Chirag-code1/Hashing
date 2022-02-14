@@ -17,4 +17,4 @@ void findTheSubArray(int arr[], int n, int sum){
         }
     }
     cout<<-1;
-}
+} //revised.
