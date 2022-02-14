@@ -10,4 +10,4 @@ void countFrequency(string str){
             count[str[i]-'a'] = 0;
         }
     }
-}
+} //revised.
