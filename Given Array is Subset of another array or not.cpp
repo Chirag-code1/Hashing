@@ -7,4 +7,4 @@ int isSubsetorNot(int a[], int n, int b[], int m){
         return 0;
     }
     return 1;
-}
+} //revised.
