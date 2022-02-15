@@ -8,4 +8,4 @@ int firstUniqueChar(string str){
         return i;
     }
     return -1;
-}
+} //revised.
