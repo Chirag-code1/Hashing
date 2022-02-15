@@ -19,4 +19,4 @@ int largSubArray(int* arr, int n){
       }
   }
   return maxi;
-}
+} //revised.
