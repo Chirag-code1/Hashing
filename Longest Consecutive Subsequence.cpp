@@ -19,4 +19,4 @@ int LongestConsecutiveSubsequence(int a[], int n){
      ans = count;
   }
   return ans;
-}
+} //revised.
