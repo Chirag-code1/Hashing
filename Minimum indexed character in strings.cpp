@@ -11,4 +11,4 @@ char minIndexChar(string str1, string str2){
     }
     auto p = mp.begin()->second;
     return p;
-}
+} //revised.
