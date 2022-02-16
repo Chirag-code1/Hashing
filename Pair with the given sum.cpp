@@ -8,4 +8,4 @@ bool pairSum(vector <int> arr, int n, int k){
  	   hashSet.insert(arr[i]);
     }
     return false;
-}
+} //revised. 
