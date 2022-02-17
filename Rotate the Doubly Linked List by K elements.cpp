@@ -34,4 +34,4 @@ Node* rotateByK(Node* head, int k)
     first->next = NULL;
     newHead->prev = NULL;
     return newHead;
-}
+} //revised.
