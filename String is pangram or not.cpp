@@ -16,4 +16,4 @@ bool isPangram(string str) {
       return false;
   }
   return true;
-}
+} //revised.
