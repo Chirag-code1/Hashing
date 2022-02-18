@@ -20,4 +20,4 @@ bool isUniqueChars(string str){
     //       return false;
     //   }
     //   return true;
-} //revised
+} //revised.
